@@ -163,17 +163,17 @@ Note that RAB’s liquid voting is a tool to express community consensus, not on
 ## 8 Roadmap
 In the past four years, we have been dedicated to researching the development of real estate market. We find real estate is the largest class of assets and the main problem is illiquidity. The emerge of blockchain technology provides the possibility to improve liquidity. We have an ambitious execution plan and roadmap that started in 2017 Q4. We share with you this glimpse of our plans and we believe we are at the right time. However, with implementing change, the roadmap can be adjusted as needed.
 ![](https://github.com/realbitio/Documentation/blob/master/images/Roadmap01.png)![](https://github.com/realbitio/Documentation/blob/master/images/Roadmap02.png)
-[1] Savills Research
-[2] Lazard US Real Estate Indicators Reports; Collier Capital flows reports; EY 2016 REIT Report
-[3] Some Insight Into The S&P 500 Index Dividend Payout
+[1]  Savills Research
+[2]  Lazard US Real Estate Indicators Reports; Collier Capital flows reports; EY 2016 REIT Report
+[3]  Some Insight Into The S&P 500 Index Dividend Payout
 https://www.linkedin.com/pulse/some-insight-sp-500-index-dividend-payout-chip-
 mironas-1
-[4] U.S. house price rises continue to accelerate
-[5] http://www.globalpropertyguide.com/North-America/United-States/Price-History
-[6] Research: Is Art a Good Investment?
-[7] https://www.gsb.stanford.edu/insights/research-art-good-investment
-[8] https://howmuch.net/articles/worlds-money-in-perspective
-[9] Daily currency trading volumes rise to $4.96 trillion in April - CLS
+[4]  U.S. house price rises continue to accelerate
+[5]  http://www.globalpropertyguide.com/North-America/United-States/Price-History
+[6]  Research: Is Art a Good Investment?
+[7]  https://www.gsb.stanford.edu/insights/research-art-good-investment
+[8]  https://howmuch.net/articles/worlds-money-in-perspective
+[9]  Daily currency trading volumes rise to $4.96 trillion in April - CLS
 [10] Just How Big Is the Gold Market?
 [11] Annual gold trade reaches $22 TRILLION
 [12] https://github.com/ipfs/ipfs
