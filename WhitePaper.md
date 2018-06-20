@@ -164,25 +164,23 @@ Note that RAB’s voting is a tool to express community consensus, not one to fo
 ## 8 Roadmap
 In the past 10 years, we have been dedicated to researching the development of real estate market. We find real estate is the largest class of assets and the main problem is illiquidity. The emergence of blockchain technology provides the possibility to improve liquidity. We have an ambitious execution plan and roadmap that started in 2017 Q4. We share with you this glimpse of our plans and we believe we are moving forward swiftly. However, as implementation progresses, the roadmap may be adjusted as needed.
 ![](https://github.com/realbitio/Documentation/blob/master/images/Roadmap01.png)![](https://github.com/realbitio/Documentation/blob/master/images/Roadmap02.png)
-
-[1] Savills Research
-[2] Lazard US Real Estate Indicators Reports; Collier Capital flows reports; EY 2016 REIT Report
-[3] Realtor.com “How Much Does It Cost to Sell a House? Here’s a Reality Check”;
-Turbotax.intuit.com ”Tax Law for Selling Real Estate”
-[4] http://urbancoreadvisors.com/main/market-analysis
-[5] http://www.globalpropertyguide.com/North-America/United-States/Price-History
-[6] Research: Is Art a Good Investment?
-[7] https://som.yale.edu/sites/default/files/files/Roman%20paper.pdf
-[8] https://www.gsb.stanford.edu/insights/research-art-good-investment
-[9] https://howmuch.net/articles/worlds-money-in-perspective
-[10] Daily currency trading volumes rise to $4.96 trillion in April - CLS
-[11] Just How Big Is the Gold Market?
-[12] Annual gold trade reaches $22 TRILLION
-[13] https://github.com/ipfs/ipfs
-[14] https://en.wikipedia.org/wiki/Directed_acyclic_graph
-[15] https://en.wikipedia.org/wiki/Merkle_tree
-[16] https://en.wikipedia.org/wiki/BitTorrent
-[17] https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
-[18] https://arxiv.org/pdf/1801.09515.pdf
-[19] OmiseGO Decentralized Exchange and Payments Platform
-  
+[1] Savills Research    
+[2] Lazard US Real Estate Indicators Reports; Collier Capital flows reports; EY 2016 REIT Report    
+[3] Realtor.com “How Much Does It Cost to Sell a House? Here’s a Reality Check”;    
+Turbotax.intuit.com ”Tax Law for Selling Real Estate”    
+[4] http://urbancoreadvisors.com/main/market-analysis    
+[5] http://www.globalpropertyguide.com/North-America/United-States/Price-History    
+[6] Research: Is Art a Good Investment?   
+[7] https://som.yale.edu/sites/default/files/files/Roman%20paper.pdf   
+[8] https://www.gsb.stanford.edu/insights/research-art-good-investment   
+[9] https://howmuch.net/articles/worlds-money-in-perspective   
+[10] Daily currency trading volumes rise to $4.96 trillion in April - CLS   
+[11] Just How Big Is the Gold Market?   
+[12] Annual gold trade reaches $22 TRILLION   
+[13] https://github.com/ipfs/ipfs   
+[14] https://en.wikipedia.org/wiki/Directed_acyclic_graph   
+[15] https://en.wikipedia.org/wiki/Merkle_tree  
+[16] https://en.wikipedia.org/wiki/BitTorrent   
+[17] https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md   
+[18] https://arxiv.org/pdf/1801.09515.pdf   
+[19] OmiseGO Decentralized Exchange and Payments Platform  
